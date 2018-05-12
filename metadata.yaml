@@ -1,4 +1,5 @@
 _repo: Widger-s-Quotes-and-Images-from-An-Attic-Philosopher-in-Paris-by-Emile-Souvestre-The-French-Im__7584
+_version: 0.1.0
 contributor:
   creator:
     editor:
@@ -6,6 +7,9 @@ contributor:
       birthdate: 1932
       gutenberg_agent_id: '1961'
       url: http://www.gutenberg.org/2009/agents/1961
+covers:
+- cover_type: archival
+  image_path: 7584-h/images/cover.jpg
 creator:
   author:
     agent_name: Souvestre, Émile
@@ -15,6 +19,8 @@ creator:
     gutenberg_agent_id: '1351'
     url: http://www.gutenberg.org/2009/agents/1351
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/7584#Widger-s-Quotes-and-Images-from-An-Attic-Philosopher-in-Paris-by-Emile-Souvestre-The-French-Im_
 gutenberg_issued: '2009-07-13'
 gutenberg_type: Text
 identifiers:
